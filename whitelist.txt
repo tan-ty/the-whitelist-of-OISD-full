@@ -11,4 +11,7 @@
 @@||t10.baidu.com^$important
 @@||t9.baidu.com^$important
 @@||t8.baidu.com^$important
-!这些规则会阻止百度百家号等图片的正常加载（我们并不希望提供正常内容服务的网站有内容被屏蔽，即便这样的网站其实内容质量不高）
+!这些规则会阻止百度系网站图片的正常加载
+!jd
+@@||img-x.jd.com^$important
+这条规则会阻止京东首页图片的正常加载
