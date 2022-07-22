@@ -1,8 +1,14 @@
+!Huawei
 @@||obs-hidsc-chat-east3-drcn.obs.cn-east-3.myhuaweicloud.com^$important 
 !这条规则会阻止华为畅连发送视频的功能
+!Tencent
 @@||pub.idqqimg.com^$important
 !这条规则会阻止QQ匿名正确地加载匿名头像
+!Microsoft
 @@||assets.msn.cn^$important
 !这条规则会阻止Microsoft Edge新标签页正确的加载天气
+!Baidu
 @@||t10.baidu.com^$important
-!这条规则会阻止百度百家号等图片的正常加载（我们并不希望提供正常内容服务的网站有内容被屏蔽，即便这样的网站其实内容质量不高）
+@@||t9.baidu.com^$important
+@@||t8.baidu.com^$important
+!这些规则会阻止百度百家号等图片的正常加载（我们并不希望提供正常内容服务的网站有内容被屏蔽，即便这样的网站其实内容质量不高）
