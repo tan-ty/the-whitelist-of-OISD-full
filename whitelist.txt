@@ -1,0 +1,2 @@
+@@||obs-hidsc-chat-east3-drcn.obs.cn-east-3.myhuaweicloud.com^$important 
+!这条规则会阻止华为畅连发送视频的功能
