@@ -1,7 +1,7 @@
 !关闭软件内置的DNSoverHTTP，防止绕过广告拦截
 ||dns.*.com^$important
 ||dns.weixin.qq.com.cn^$important
-||httpdns.huaweicloud.com^$important
+||httpdns.*.com^$important
 !支付宝的信息收集
 ||loggw.alipay.com.cn^$important
 !网易的信息收集
