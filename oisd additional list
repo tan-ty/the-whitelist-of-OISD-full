@@ -6,5 +6,3 @@
 ||loggw.alipay.com.cn^$important
 !网易的信息收集
 ||analytics.mpay.netease.com^$important
-!谷歌的信息收集
-||*.googletagmanager.com^$important
