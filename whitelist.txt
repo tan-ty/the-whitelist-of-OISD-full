@@ -7,6 +7,8 @@
 !Microsoft
 @@||assets.msn.cn^$important
 !这条规则会阻止Microsoft Edge新标签页正确的加载天气
+@@||dns.msftncsi.com^$important
+!这条规则会使windows无法正确感知网络状态
 !Baidu
 @@||t10.baidu.com^$important
 @@||t9.baidu.com^$important
