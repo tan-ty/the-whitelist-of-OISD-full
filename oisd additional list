@@ -8,4 +8,3 @@
 ||analytics.mpay.netease.com^$important
 !谷歌的信息收集
 ||*.googletagmanager.com^$important
-||*.gstatic.com^$important
