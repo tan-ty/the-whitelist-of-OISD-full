@@ -14,6 +14,7 @@
 @@||t9.baidu.com^$important
 @@||t8.baidu.com^$important
 @@||f10.baidu.com^$important
+@@||usug.baidu.com^$important
 !这些规则会阻止百度系网站图片的正常加载
 !jd
 @@||img-x.jd.com^$important
