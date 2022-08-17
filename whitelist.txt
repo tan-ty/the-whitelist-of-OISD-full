@@ -1,6 +1,8 @@
 !Huawei
 @@||obs-hidsc-chat-east3-drcn.obs.cn-east-3.myhuaweicloud.com^$important 
 !这条规则会阻止华为畅连发送视频的功能
+@@||grs.dbankcloud.*^$important
+!这条规则会阻止华为系统的翻译功能
 !Tencent
 @@||pub.idqqimg.com^$important
 !这条规则会阻止QQ匿名正确地加载匿名头像
