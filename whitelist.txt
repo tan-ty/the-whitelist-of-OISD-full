@@ -22,3 +22,6 @@
 !jd
 @@||img-x.jd.com^$important
 这条规则会阻止京东首页图片的正常加载
+!meituan
+@@||api-unionid.meituan.com^$important
+这条规则会阻止美团规则的正常加载
