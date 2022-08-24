@@ -25,4 +25,6 @@
 这条规则会阻止京东首页图片的正常加载
 !meituan
 @@||api-unionid.meituan.com^$important
-这条规则会阻止美团规则的正常加载
+这条规则会阻止美团的正常加载
+@@||*.duiba.com.cn^$important
+这条规则会阻止华为商城图片的正常加载
