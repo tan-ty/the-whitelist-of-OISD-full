@@ -7,8 +7,8 @@
 ||img14.360buyimg.com^$important
 !腾讯
 ||pp.myapp.com^$important
-||android.bugly.qq.com^$important
-||research.qq.com^$important
+||*.bugly.qq.com^$important
+||bugly.qq.com^$important
 !YY
 ||cloud-log.yy.com^$important
 !360
