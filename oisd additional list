@@ -3,7 +3,8 @@
 ||httpdns-sdk.n.netease.com^$important
 ||dns.weixin.qq.com.cn^$important
 ||dns.jd.com^$important
-||*.alibabadns.com^$important
+||resolver.dingtalk.com^$important
+||resolver.dingtalk.com.gds.alibabadns.com^$important
 !JD
 ||img14.360buyimg.com^$important
 !腾讯
