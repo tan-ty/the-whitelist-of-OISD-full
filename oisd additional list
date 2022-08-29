@@ -18,3 +18,5 @@
 ||*.50union.com^$important
 !zijie
 ||www.pangolin-dsp-toutiao.com^$important
+!Huawei
+||logservice1.dbankcloud.cn^$important
