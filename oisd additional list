@@ -8,7 +8,7 @@
 !腾讯
 ||pp.myapp.com^$important
 ||bugly.qq.com^$important
-||*.research.qq.com^$important
+||research.qq.com^$important
 ||porndetect-*.cos.ap-guangzhou.myqcloud.com^$important
 !YY
 ||cloud-log.yy.com^$important
