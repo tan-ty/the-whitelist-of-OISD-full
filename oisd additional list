@@ -21,3 +21,11 @@
 !Xiaomi
 ||rom.pt.miui.srv^$important
 !关闭小米云控
+!Google
+||googletagservices.com^$important
+||googletagmanager.com^$important
+||googleadservices.com^$important
+!Tuhu
+||analytics.tuhu.com^$important
+!2345
+||2345.com^$important
