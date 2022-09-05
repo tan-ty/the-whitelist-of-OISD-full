@@ -1,4 +1,4 @@
-@@||grs.dbankcloud.*^$important
+@@||grs.dbankcloud.com^$important
 !这条规则会阻止华为系统的翻译功能
 !Tencent
 @@||pub.idqqimg.com^$important
