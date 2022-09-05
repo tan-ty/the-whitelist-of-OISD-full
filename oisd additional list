@@ -32,4 +32,4 @@
 !Tuhu
 ||analytics.tuhu.com^$important
 !2345
-||2345.com^$important
+||2345.*^$important
