@@ -20,6 +20,10 @@
 ||logservice1.dbankcloud.cn^$important
 !Xiaomi
 ||rom.pt.miui.srv^$important
+||preview-jupiter.sys.miui.com^$important
+||jupiter.sys.miui.com^$important
+||jupiter.intl.sys.miui.com^$important
+||jupiter.rus.sys.miui.com^$important
 !关闭小米云控
 !Google
 ||googletagservices.com^$important
