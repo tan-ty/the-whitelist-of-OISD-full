@@ -1,18 +1,2 @@
-!Microsoft
-@@||assets.msn.cn^$important
-!这条规则会阻止Microsoft Edge新标签页正确的加载天气
-!Baidu
-@@||t10.baidu.com^$important
-@@||t9.baidu.com^$important
-@@||t8.baidu.com^$important
-@@||f10.baidu.com^$important
-@@||b.bdstatic.com^$important
-!这些规则会阻止百度系网站图片的正常加载
-!jd
-@@||img-x.jd.com^$important
-这条规则会阻止京东首页图片的正常加载
-!meituan
-@@||api-unionid.meituan.com^$important
-这条规则会阻止美团的正常加载
 @@||duiba.com.cn^$important
 这条规则会阻止华为商城图片的正常加载
