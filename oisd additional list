@@ -1,6 +1,7 @@
 !关闭软件内置的DNSoverHTTP，防止绕过广告拦截
 ||httpdns.*.com^$important
 ||httpdns-sdk.n.netease.com^$important
+||dns.weixin.qq.com^$important
 ||dns.weixin.qq.com.cn^$important
 ||dns.jd.com^$important
 ||resolver.dingtalk.com^$important
