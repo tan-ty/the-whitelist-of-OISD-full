@@ -1,11 +1,3 @@
-!关闭软件内置的DNSoverHTTP，防止绕过广告拦截
-||httpdns.*.com^$important
-||httpdns-sdk.n.netease.com^$important
-||dns.weixin.qq.com^$important
-||dns.weixin.qq.com.cn^$important
-||dns.jd.com^$important
-||resolver.dingtalk.com^$important
-||resolver.dingtalk.com.gds.alibabadns.com^$important
 !腾讯
 ||pp.myapp.com^$important
 ||bugly.qq.com^$important
