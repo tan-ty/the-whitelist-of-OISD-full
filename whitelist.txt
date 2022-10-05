@@ -1,2 +1,0 @@
-@@||duiba.com.cn^$important
-这条规则会阻止华为商城图片的正常加载
