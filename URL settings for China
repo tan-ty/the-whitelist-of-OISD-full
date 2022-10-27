@@ -4,3 +4,15 @@
 !Baidu
 ||baidu.com^$removeparam=ie
 ||baidu.com^$removeparam=rsv_pq
+||baidu.com^$removeparam=rsv_t
+||baidu.com^$removeparam=pn
+||baidu.com^&removeparam=sid
+||gimg3.baidu.com^&removeparam=refer
+||gimg3.baidu.com^&removeparam=t
+||gimg3.baidu.com^&removeparam=sec
+||gimg3.baidu.com^&removeparam=fmt
+||gimg3.baidu.com^&removeparam=q
+||gimg3.baidu.com^&removeparam=g
+||gimg3.baidu.com^&removeparam=n
+
+!zhihu
