@@ -1,3 +1,7 @@
 !jd
 ||jd.com^$removeparam=pvid 
 ||jd.com$removeparam=enc
+!Baidu
+||baidu.com^$removeparam=ie
+||baidu.com^$removeparam=ie
+||baidu.com^$removeparam=rsv_pq
