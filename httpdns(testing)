@@ -1,8 +1,2 @@
-httpdns.alicdn.com
-httpdns.c.cdnhwc2.com
-httpdns.kwd.inkuai.com
-httpdns.meituan.com
-httpdns.huaweicloud.com
 dns.weixin.qq.com
-httpdns.gslb.yy.com
-*-dnsotls-ds.metric.gstatic.com
+httpdns.*.com
