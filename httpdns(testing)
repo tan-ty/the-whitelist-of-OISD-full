@@ -1,4 +1,7 @@
 dns.weixin.qq.com
+dns.weixin.qq.com.cn
 httpdns.*.com
+httpdns.*.cn
 httpdns-sc.aliyuncs.com
 httpdns-sdk.n.netease.com
+||*-dnsotls-ds.metric.gstatic.com^$dnsrewrite=172.217.163.35
